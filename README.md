@@ -18,12 +18,17 @@
 
 ### Stimuli Rating Scores
 
+* Image/info ratings for Experiments 1 and 2.
+
 ### Study Results
+
+* Recall_Scores.xlsx: Contains ratings for aesthetics, perceived ease of use, and sentiment in Experiment 2
+* Tables and graphs 
 
 ### Recall Examples
 
-* Contains examples of how recall data is coded for stimuli (1 from each category is exemplified)
+* Examples of how recall data is coded for stimuli (1 from each category is exemplified)
 
 ### Demographics
 
-* Contains demographic data of participants from experiments 1 (prolific, 500 stimuli) and 2 (in-person, 100 stimuli)
+* Demographic data of participants from Experiments 1 (prolific, 500 stimuli) and 2 (in-person, 100 stimuli)
