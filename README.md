@@ -16,6 +16,10 @@
 
 ### Stimuli Metadata
 
+### Stimuli Rating Scores
+
+### Study Results
+
 ### Recall Examples
 
 * Contains examples of how recall data is coded for stimuli (1 from each category is exemplified)
