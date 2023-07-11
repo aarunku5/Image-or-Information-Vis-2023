@@ -16,14 +16,17 @@
 
 ### Stimuli Metadata
 
+* Contains metadata corresponding to the taxonomy used to in Table 2
+
 ### Stimuli Rating Scores
 
 * Image/info ratings for Experiments 1 and 2.
 
 ### Study Results
 
-* Recall_Scores.xlsx: Contains ratings for aesthetics, perceived ease of use, and sentiment in Experiment 2
-* Tables and graphs 
+* Recall_Scores.xlsx: Contains ratings for aesthetics, perceived ease of use, and sentiment
+* Result-Analysis-Recall-Scores.pdf contains regression and cohen's d results for recall scores
+* Result-Analysis-Ratings-Scores contains regression and cohen's d results for ratings scores
 
 ### Recall Examples
 
