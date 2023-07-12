@@ -25,8 +25,9 @@
 ### Study Results
 
 * Recall_Scores.xlsx: Contains ratings for aesthetics, perceived ease of use, and sentiment
-* Result-Analysis-Recall-Scores.pdf contains regression and cohen's d results for recall scores
-* Result-Analysis-Ratings-Scores contains regression and cohen's d results for ratings scores
+* Result-Analysis-Recall-Scores.pdf contains regression and cohen's d results for recall scores 
+* Result-Analysis-Ratings-Scores-Expt-1.pdf contains regression and cohen's d results for ratings scores for Expt 1
+* Result-Analysis-Ratings-Scores-Expt-2.pdf contains regression and cohen's d results for ratings scores for Expt 2
 
 ### Recall Examples
 
